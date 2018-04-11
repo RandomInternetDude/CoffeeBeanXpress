@@ -1,2 +1,0 @@
-# CoffeeBeanXpress
-Online Coffee store
